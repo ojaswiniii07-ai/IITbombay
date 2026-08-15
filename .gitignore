@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
